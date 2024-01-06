@@ -1,0 +1,194 @@
+[
+  {
+    "question": " One following is a hallmark of infection.",
+    "choice1": "a. loss of weight.",
+    "choice2": "b. Fever.",
+    "choice3": "c. Anemia.",
+    "choice4": "d. Dyspnea.",
+    "answer": 2
+  },
+  {
+    "question": " Respiratory transmission of infection occur by.",
+    "choice1": "a Inhalation.",
+    "choice2": "b. Ingestion.",
+    "choice3": "c. Blood born inoculation.",
+    "choice4": "d. Mucous membrane contact.",
+    "answer": 1
+  },
+  {
+    "question": " All of followings are common infectious disease in elderly EXCEPT.",
+    "choice1": "a. Pneumonia.",
+    "choice2": "b. Urinary tract infection.",
+    "choice3": "c. Sinusitis.",
+    "choice4": "d. Gastroenteritis.",
+    "answer": 3
+  },
+  {
+    "question": " Treatment of sepsis include all of followings EXCEPT.",
+    "choice1": "a. Take blood culture",
+    "choice2": "b. Start of intravenous fluid replacement.",
+    "choice3": "c. Give high flow oxygen.",
+    "choice4": "d. Administer oral antibiotic.",
+    "answer": 4
+  },
+  {
+    "question": " Class 3 of The NYHA functional classification means.",
+    "choice1": "a. Symptoms at rest.",
+    "choice2": "b. Marked limitation of normal activities.",
+    "choice3": "c. No limitation during ordinary activity.",
+    "choice4": "d. Slight limitation during ordinary activity.",
+    "answer": 2
+  },
+  {
+    "question": " Fever means body core Temperature.",
+    "choice1": "a. Temperature above or equal to 38 C°",
+    "choice2": "b. Above than 37 C°",
+    "choice3": "c. Above than 39 C°",
+    "choice4": "d. Above or equal to 35 C°",
+    "answer": 1
+  },
+  {
+    "question": " (54 male patient ) develop intermittent dizziness, palpitation and syncope over period of few days what you will do for him.",
+    "choice1": "a. Send him for exercise ECG.",
+    "choice2": "b. Send him for CT angiogram",
+    "choice3": "c. Send him for ambulatory ECG.",
+    "choice4": "d. Send him for placement of loop recorder.",
+    "answer": 3
+  },
+  {
+    "question": " Typical anginal chest pain include all of followings EXCEPT.",
+    "choice1": "a. Relived by nitroglycerin.",
+    "choice2": "b. Provoked by exertion or emotional stress.",
+    "choice3": "c. Substernal chest discomfort with characteristic quality and duration.",
+    "choice4": "d. Provoked by rest.",
+    "answer": 4
+  },
+  {
+    "question": " Cardiac chest pain because of ischemia include all of followings EXCEPT",
+    "choice1": "a. Myocardial infarction.",
+    "choice2": "b. Pericarditis.",
+    "choice3": "c. Unstable angina.",
+    "choice4": "d. Angina pectoris.",
+    "answer": 2
+  },
+  {
+    "question": " Non cardiac chest pain character all of followings EXCEPT.",
+    "choice1": "a. Diffuse poorly localized",
+    "choice2": "b. No predictable relation to physical exertion.",
+    "choice3": "c. Focal well localized.",
+    "choice4": "d. Sharp or stabbing.",
+    "answer": 1
+  },
+  {
+    "question": " The followings symptoms occur in cardiac dyspnea EXCEPT",
+    "choice1": "a. PND or orthopnea",
+    "choice2": "b. Often no hemoptysis.",
+    "choice3": "c. Chest pain infrequent",
+    "choice4": "d. Thin frothy secretion.",
+    "answer": 3
+  },
+  {
+    "question": " All the followings are associated with syncope of CNS disorders except.",
+    "choice1": "a. Limb jerking",
+    "choice2": "b. Tongue bite",
+    "choice3": "c. Urinary incontinence.",
+    "choice4": "d. Rapid recovery.",
+    "answer": 4
+  },
+  {
+    "question": " ( 64 years male ) present with substernal chest pain provoked by exertion relived by rest or nitroglycerin what you will do for him.",
+    "choice1": "a. Esophageal workup.",
+    "choice2": "b. Full cardiac workup.",
+    "choice3": "c. Analgesia and discharge.",
+    "choice4": "d. Noninvasive cardiac workup.",
+    "answer": 2
+  },
+  {
+    "question": " High brain workup. BNP occur in.",
+    "choice1": "a. Heart failure.",
+    "choice2": "b. Myocardial infarction.",
+    "choice3": "c. Unstable angina",
+    "choice4": "d. Stable angina.",
+    "answer": 1
+  },
+  {
+    "question": " Common causes of dyspnea include all of followings EXCEPT.",
+    "choice1": "a. Asthma.",
+    "choice2": "b. Heart failure.",
+    "choice3": "c. Valvular heart disease.",
+    "choice4": "d. Anemia",
+    "answer": 3
+  },
+  {
+    "question": " High risk findings of exercise ECG.",
+    "choice1": "a. Fall of blood pressure",
+    "choice2": "b. Early development of ischemia.",
+    "choice3": "c. Exercise induced arrhythmia.",
+    "choice4": "d. All of the above.",
+    "answer": 4
+  },
+  {
+    "question": " In examination of anemia we inspect.",
+    "choice1": "a. Palpebral conjunctiva.",
+    "choice2": "b. Nail bed.",
+    "choice3": "c. Palmar skin creases",
+    "choice4": "d. All of the above.",
+    "answer": 4
+  },
+  {
+    "question": " For examination of hydration status all of followings will be checked except.",
+    "choice1": "a. Pulse rate",
+    "choice2": "b. Skin turgor.",
+    "choice3": "c. Respiratory rate.",
+    "choice4": "d. Blood pressure.",
+    "answer": 3
+  },
+  {
+    "question": " Central cyanosis occur in the followings EXCEPT.",
+    "choice1": "a. Cold exposure.",
+    "choice2": "b. Left to right cardiac shunt.",
+    "choice3": "C. COPD.",
+    "choice4": "d. Massive pulmonary embolus.",
+    "answer": 1
+  },
+  {
+    "question": " Jaundice means",
+    "choice1": "a. High hemoglobin.",
+    "choice2": "b. High fever.",
+    "choice3": "c. Morbid obesity.",
+    "choice4": "d. High bilirubin",
+    "answer": 4
+  },
+  {
+    "question": " body mass Index of 19-25 means.",
+    "choice1": "a. Extreme or morbid obesity",
+    "choice2": "c. Overweight",
+    "choice3": "b. Obese.",
+    "choice4": "d Normal.",
+    "answer": 4
+  },
+  {
+    "question": " malignant Lymph node has the following except",
+    "choice1": "a. Hard.",
+    "choice2": "b. Irregular.",
+    "choice3": "c. Tender.",
+    "choice4": "d. Fixed.",
+    "answer": 3
+  },
+  {
+    "question": " Peripheral cyanosis occur in all of followings EXCEPT.",
+    "choice1": "a. Exposure to heat.",
+    "choice2": "b. Peripheral vascular disease.",
+    "choice3": "c. Reduced cardiac output",
+    "choice4": "d. Exposure to cold.",
+    "answer": 1
+  },
+  {
+    "question": " Vital signs include all of followings EXCEPT.",
+    "choice1": "a. Blood pressure",
+    "choice2": "b. Pulse rate.",
+    "choice3": "c. Consensus level",
+    "choice4": "d. Respiratory rate",
+    "answer": 3
+  }
+]
